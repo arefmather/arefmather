@@ -7,7 +7,7 @@
 #### <p align="center">This is <b>Aref Mather</b> <img width="20px" height="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png"> <i>CV</i> <img width="20px" height="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png"> document.</p><br>
 
 <details align="center" open>
-  <summary>Profile Views <code>maybe i increased it a little bit :)</code></summary>
+  <summary>Profile Views</summary>
   <a align="center" target="_blank" rel="noopener noreferrer" href="https://futuree.netlify.app/en"><picture>
     <source alt="profile_views" media="(prefers-color-scheme: dark)" srcset="https://count.getloli.com/get/@arefmather?theme=moebooru">
     <img alt="profile_views" src="https://count.getloli.com/get/@arefmather?theme=rule34">
@@ -20,11 +20,8 @@ ___________________________________________________________________
    - ***I can speaking <img src="https://futuree.netlify.app/resimler/en-flag.svg" width="16" height="11">English, <img src="https://futuree.netlify.app/resimler/tr-flag.svg" width="16" height="11">Turkish***
    - :basecamp: ***Ask me questions fro m my e-mail addresses,***
      - ***arefdevs@gmail.com***
-   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png?v8" width="20px" height="20px"> ***Let me find a solution to your problems,***
-   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png?v8" width="20px" height="20px"> ***Trustworthy,***
-   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png?v8" width="20px" height="20px"> ***And quickly...***
    - :basecamp: ***My connections;***
-     - <a href="https://futuree.netlify.app/dc" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="20px" height="20px"> ***Discord server***</a>
+     - <a href="https://discord.gg/83sgqWug27" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="20px" height="20px"> ***Discord server***</a>
     
 <hr>
 <details align="center" open>
@@ -32,7 +29,7 @@ ___________________________________________________________________
 <div align="center">
  <picture>
     <source alt="discord_profile" media="(prefers-color-scheme: dark)" srcset="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=dark&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=I'm+probably+writing+code+on+Github.">
-    <img alt="discord_profile" src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=I'm+probably+writing+code+on+Github.">
+    <img alt="discord_profile" src="https://lanyard-profile-readme.vercel.app/api/1153976202600648714?theme=light&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=I'm+probably+writing+code+on+Github.">
   </picture>
  </div>
 <br>
@@ -72,7 +69,7 @@ ___________________________________________________________________
   <div dir="auto">
     | <code><img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"></code>
     <br><br>
-   | | <code><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"></code> |
+   | <code><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"></code> |
     <br><br>
         
   </div>
