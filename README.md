@@ -17,9 +17,7 @@ ___________________________________________________________________
 ### <div align="center">Some things I'm doing right now;</div>
  
  
-   - :octocat: ***I'm 17 years old Self-taught Front-end Developer and I most improve myself on Cascading Style Sheets,***
-   - :shipit: ***I am working on [Hack Club](https://github.com/hackclub) and [the Future](https://github.com/thefuture-org)[^1] from Home in Turkiye,***
-   - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f320.png?v8" width="25px" height="25px"> ***I can speaking <img src="https://futuree.netlify.app/resimler/en-flag.svg" width="16" height="11">English, <img src="https://futuree.netlify.app/resimler/tr-flag.svg" width="16" height="11">Turkish***
+   - ***I can speaking <img src="https://futuree.netlify.app/resimler/en-flag.svg" width="16" height="11">English, <img src="https://futuree.netlify.app/resimler/tr-flag.svg" width="16" height="11">Turkish***
    - :basecamp: ***Ask me questions fro m my e-mail addresses,***
      - ***arefdevs@gmail.com***
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png?v8" width="20px" height="20px"> ***Let me find a solution to your problems,***
