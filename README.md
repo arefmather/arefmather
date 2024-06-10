@@ -1,13 +1,4 @@
-<details align="center" open>
-  <summary>Profile Views</summary>
-  <a align="center" target="_blank" rel="noopener noreferrer" <picture>
-    <source alt="profile_views" media="(prefers-color-scheme: dark)" srcset="https://count.getloli.com/get/@arefmather?theme=moebooru">
-    <img alt="profile_views" src="https://count.getloli.com/get/@arefmather?theme=rule34">
-  </picture></a></details>
-
 ___________________________________________________________________
-### <div align="center">Some things I'm doing right now;</div>
- 
  
    - ***I can speaking <img src="https://futuree.netlify.app/resimler/en-flag.svg" width="16" height="11">English, <img src="https://futuree.netlify.app/resimler/tr-flag.svg" width="16" height="11">Turkish***
    - :basecamp: ***Ask me questions fro m my e-mail addresses,***
@@ -27,8 +18,3 @@ ___________________________________________________________________
 <br>
 </details>
 <hr>
-
-  <picture>
-    <source alt="github_stats" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arefmather&layout=compact&theme=react&count_private=true&hide_border=true&bg_color=0D1117">
-    <img alt="github_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefmather&layout=compact&theme=github-light&count_private=true&hide_border=true">
-  </picture>
