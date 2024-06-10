@@ -27,27 +27,8 @@ ___________________________________________________________________
 <br>
 </details>
 <hr>
-  
-  <details align="center" open>
-  <summary><code><i>My GitHub Statistics</i></code></summary>
-  
-  <picture>
-    <source alt="github_stats" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arefmather&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true&custom_title=arefmather's+Github+Stats">
-    <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=arefmather&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&custom_title=arefmather's+Github+Stats&icon_color=79ff97&show_icons=true">
-  </picture>
-  
-  <picture>
-    <source alt="github_streak_stats" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arefmather&theme=react&background=0D1117&count_private=true&hide_border=true">
-    <img alt="github_langs" src="https://github-readme-streak-stats.herokuapp.com/?user=arefmather&theme=github-light&count_private=true&hide_border=true">
-  </picture>
-  
+
   <picture>
     <source alt="github_stats" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arefmather&layout=compact&theme=react&count_private=true&hide_border=true&bg_color=0D1117">
     <img alt="github_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefmather&layout=compact&theme=github-light&count_private=true&hide_border=true">
   </picture>
-  
-  <picture>
-    <source alt="github_trophy" media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=arefmather&theme=dark_lover&count_private=true&rank=-?,-C">
-    <img alt="github_trophy" src="https://github-profile-trophy.vercel.app/?username=arefmather&theme=light&count_private=true&rank=-?,-C">
-  </picture>
-## 
