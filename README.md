@@ -50,22 +50,4 @@ ___________________________________________________________________
     <source alt="github_trophy" media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=arefmather&theme=dark_lover&count_private=true&rank=-?,-C">
     <img alt="github_trophy" src="https://github-profile-trophy.vercel.app/?username=arefmather&theme=light&count_private=true&rank=-?,-C">
   </picture>
-
-<!--<a style="display:none;" href="https://activity-graph.herokuapp.com/graph?username=arefmather&theme=dracula"><img src="https://activity-graph.herokuapp.com/graph?username=arefmather&theme=react&bg_color=0D1117&bg_color=0D1117"></a>-->
-</details>
-  
-<hr>
-
-<details align="center" open>
-  <summary><code><i>My interests</i></code></summary>
-  <div dir="auto">
-    | <code><img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"></code>
-    <br><br>
-   | <code><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;"></code> | <code><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"></code> |
-    <br><br>
-        
-  </div>
-</details>
-<hr>
-
 ## 
