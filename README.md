@@ -1,4 +1,3 @@
-___________________________________________________________________
 <hr>
 <details align="center" open>
   <summary><code><i>Discord Profile</i></code></summary>
