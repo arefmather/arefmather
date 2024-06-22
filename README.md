@@ -1,7 +1,7 @@
 ## Discord Profile
 
 <div align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; width: 300px; font-family: Arial, sans-serif;">
-    <img src="https://cdn.discordapp.com/avatars/1153976202600648714/your_avatar_hash.png?size=128" alt="Aref But Unstable" style="border-radius: 50%;">
+    <img src="https://media.discordapp.net/attachments/1248323306055270541/1254008842287714434/set.jpg?ex=6677ee3e&is=66769cbe&hm=ac7e7a6e18f8f40e8eca13e953b5fd536db95ff889e1a865ac890f66d0db8298&=&format=webp&width=467&height=467" alt="Aref But Unstable" style="border-radius: 50%;">
     <h2>Aref But Unstable</h2>
     <p style="color: #7289DA; font-weight: bold;">#1234</p>
     <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
