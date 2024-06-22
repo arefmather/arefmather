@@ -44,7 +44,7 @@
     </div>
 
     <script>
-        const userId = 'YOUR_DISCORD_USER_ID';
+        const userId = '1153976202600648714';
         const lanyardApiUrl = `https://api.lanyard.rest/v1/users/${userId}`;
 
         async function fetchData() {
