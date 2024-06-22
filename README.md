@@ -1,9 +1,13 @@
+## Discord Profile
 
- <picture>
-    <source alt="(https://lanyard-profile-readme.vercel.app/api/1153976202600648714?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1153976202600648714)">
-    <img alt="discord_profile" src="https://lanyard-profile-readme.vercel.app/api/1153976202600648714?theme=light&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=I'm+probably+writing+code+on+Github.">
-  </picture>
- </div>
-<br>
-</details>
-<hr>
+### Aref But Unstable
+
+![Discord](https://img.shields.io/badge/Discord-Aref%20But%20Unstable-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+#### Badges:
+- ![Hype Squad Balance](https://img.shields.io/badge/Hype%20Squad-Balance-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+- ![Early Bot Developer](https://img.shields.io/badge/Early%20Bot%20Developer-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+- ![Early Supporter](https://img.shields.io/badge/Early%20Supporter-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+- ![Active Developer](https://img.shields.io/badge/Active%20Developer-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+- ![24 Month Boost Badge](https://img.shields.io/badge/24%20Month%20Boost-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+- ![Gold Hype Squad Hunter](https://img.shields.io/badge/Gold%20Hype%20Squad%20Hunter-FFD700?style=for-the-badge&logo=discord&logoColor=white)
